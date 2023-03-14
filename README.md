@@ -1,6 +1,7 @@
 # Hi 👋, I'm Bers! / Привет, меня зовут Берс!
-I am a frontend javascript developer/ Я frontend-разработчик
 ---
+### About me
+- I am a frontend javascript developer/ Я frontend-разработчик
 - Worked in the **Ministry of Education and Science of the Chechen Republic** for 4 years as a chief specialist of the information technology department
 - I am currently working on an independent project, which is a news portal about technical devices.
 ---
