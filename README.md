@@ -20,5 +20,5 @@ How to reach me **yabersyak@gmail.com**
 #### Название проекта - "Союз логистик"
 Проект представляет собой магазин комании, занимающейся перевозкой грузов с удобным поиском.
 ##### Ссылки на репозитории
-- [frontend]([https://www.google.com](https://github.com/yabersan/building-store-client)
-- [backend]([https://www.google.com](https://github.com/yabersan/building-store-server)
+- [frontend](https://github.com/yabersan/building-store-client)
+- [backend](https://github.com/yabersan/building-store-server)
