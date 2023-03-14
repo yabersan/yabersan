@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bers!</h1>
-<h3 align="center">I am a frontend javascript developer</h3>
+# Hi 👋, I'm Bers!
+I am a frontend javascript developer
 
 - Last place of work **Ministry of Education and Science of the Chechen Republic**
 
