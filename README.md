@@ -2,7 +2,7 @@
 ---
 ### About me / Обо мне
 - I am a frontend javascript developer/ Я frontend-разработчик
-- Worked in the **Ministry of Education and Science of the Chechen Republic** for 4 years as a chief specialist of the information technology department **/** 4 года работала в Министерстве образования и науки Чеченской Республики главным специалистом отдела информационных технологий.
+- Worked in the **Ministry of Education and Science of the Chechen Republic** for 4 years as a chief specialist of the information technology department **/** 4 года работал в Министерстве образования и науки Чеченской Республики главным специалистом отдела информационных технологий.
 - I am currently working on an independent project, which is a news portal about technical devices. **/** В настоящее время работаю над независимым проектом, который представляет собой новостной портал о технических устройствах
 ---
 How to reach me **yabersyak@gmail.com**
